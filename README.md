@@ -19,7 +19,7 @@
 ### Migration
 1. **Create a new database**
     ```bash
-    laravel_notifications
+    todo-list-api
     ```
 2. **Run migrations in the project console :"php artisan migrate"**
     ```bash
