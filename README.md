@@ -57,12 +57,12 @@
 ### Accessing the Application
 - Visit `http://localhost:8000/` in your browser.
 
-2. **Dummy Username & Password**
+1. **Dummy Username & Password**
     ```bash
     Email : john@example.com
     Password : password
     ```
-3. **In Postman run as http://localhost:8000/api**
+2. **In Postman run as http://localhost:8000/api**
     ```bash
      POST : http://localhost:8000/api/login
      GET  : http://localhost:8000/api/tasks
